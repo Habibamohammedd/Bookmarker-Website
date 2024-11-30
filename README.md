@@ -39,10 +39,8 @@ Explore the live project here: [Bookmarker-Website](https://bookmarker-website.n
 
 ---
 
-## 🤝 **Contributing**
-Contributions are welcome! Feel free to fork the repository, make your changes, and submit a pull request.  
 
----
+
 
 
 
